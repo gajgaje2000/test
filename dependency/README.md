@@ -6,4 +6,4 @@
 | **Copy folder (`dependency` -> `public`)** | `cp -r dependency webapp\public` | `robocopy dependency webapp\public /E` |
 | **Delete folder (`node_modules`)** | `rm -r -fo node_modules` | `rd /s /q node_modules` |
 | **Copy file to clipboard (`server.js`)** | `cat webapp\server.js \| clip` | `clip < webapp\server.js` |
-| **Copy file to clipboard (`server.js`)** | `code "filepath"` | `code "filepath"` |
+| **Open file(Just like `Ctrl+O`) (`server.js`)** | `code "filepath"` | `code "filepath"` |
