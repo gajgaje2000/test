@@ -44,9 +44,10 @@ test/
 │   └── public/
 │       └── index.html                          # AngularJS SPA with Real-time Form Validation
 │
-├── dependency/                                 # 📦 Local Vendor Dependencies
+├── dependency/                                 # 📦 Local Vendor Dependencies & Exam Tools
 │   ├── angular.min.js                          # AngularJS v1.8.2 framework
-│   └── bootstrap.min.css                       # Bootstrap v5.3.3 styling
+│   ├── bootstrap.min.css                       # Bootstrap v5.3.3 styling
+│   └── README.md                               # ⚡ VS Code Terminal Cheatsheet (cp, rm, git clone, clip)
 │
 ├── package.json                                # Node dependencies & start script
 └── README.md                                   # Master Syllabus Guide & Viva Bank
